@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: pink;
     text-align: center;
     font-family: Courier;
     font-size: 16px;
@@ -10,9 +10,9 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: orange;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+    color: green;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
