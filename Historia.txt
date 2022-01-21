@@ -7,3 +7,5 @@ Cambio de trabajo
 
 Se agrego un nuevo colaborador al proyecto1, su nombre es sutexdev
 Es un super programador
+
+Este proyecto es interesante y por eso he decidido colaborar.
