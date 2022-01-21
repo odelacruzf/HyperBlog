@@ -10,12 +10,10 @@ Es un super programador
 
 Este proyecto es interesante y por eso he decidido colaborar.
 
-<<<<<<< HEAD
 Master 1
 
 Master 2
-=======
-Expimento 1
 
-Master 1
->>>>>>> 18a9fc1 (Exp1)
+Experimento 1
+
+Experimento 2
